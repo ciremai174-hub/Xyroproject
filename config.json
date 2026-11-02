@@ -1,7 +1,7 @@
 {
   "server_url": "http://public.zhaher.my.id:4593",
   "wsPort": 2090,
-  "maintenance": false,
-  "message": "Sabar Ada bug cok Aelah sabar",
+  "maintenance": true,
+  "message": "P",
   "version": "2.0.0"
 }
